@@ -1,4 +1,3 @@
-```md
 # Java Internship Tasks
 
 This repository contains the tasks completed during my **Java Development Internship** at **InternPe**.
@@ -71,7 +70,3 @@ A console-based two-player Tic Tac Toe game built using Java. Players take turns
 ---
 
 ## 🚀 Internship
-
-**Organization:** InternPe  
-**Domain:** Java Development Internship
-```
